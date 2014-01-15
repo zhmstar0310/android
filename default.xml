@@ -36,6 +36,7 @@
   <project path="developers/samples/android" name="platform/developers/samples/android" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
+  <project path="device/lge/lu6200" name="zhmstar0310/android_device_lge_lu6200" remote="github" />
 
   <project path="device/generic/armv7-a-neon" name="CyanogenMod/android_device_generic_armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="CyanogenMod/android_device_generic_common" groups="pdk" />
